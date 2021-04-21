@@ -4,6 +4,8 @@ This is a simple portable hardware tool that allows for easy, multifunctional, v
 
 ![Version 0.1](https://github.com/saiftynet/NanoBench/blob/main/Images/nanobench.jpg)
 
+In this version the nano board is exposed to allow access to the reset button, LEDs.  There an ON off switch.  The power pins are brought out to headers on either side of the box (one side for 5V, the other for 3.3V, an I2C port is positioned at the back of the box...not visible. In the front the remaining pins are made available for extender modules. 
+
 ## The Parts
 
 ## The Wiring
