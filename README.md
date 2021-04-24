@@ -20,8 +20,9 @@ In this version the nano board is exposed to allow access to the reset button, L
 
 ## The Wiring
 
-A the diplay is connected via the  
+The diplay is connected to the onboard default SPI pins
 
-## The Basic Sketches
+## [The Basic Sketches](https://github.com/saiftynet/NanoBench/tree/main/Sketches)
 
-## Extender Modules
+## [Extender Modules](https://github.com/saiftynet/NanoBench/wiki)
+
